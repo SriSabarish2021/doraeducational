@@ -1,0 +1,12 @@
+$app-font:green;
+
+.app{
+    color: $app-font;
+    &__h1{
+        color: $app-font;
+    }
+    &__h2{
+        color:blue;
+    }
+}
+
